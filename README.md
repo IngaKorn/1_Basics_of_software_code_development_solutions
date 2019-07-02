@@ -1,2 +1,7 @@
-# 1_Basics_of_software_code_development_solutions
-Solutions for code review
+# Basics of software code development
+
+Описание файлов:
+
+ - Line_programs - содержит решение задач раздела линейные программы.
+ - Branching - содержит решение задач раздела ветвление.
+ - Loops - содержит решение задач раздела циклы.
